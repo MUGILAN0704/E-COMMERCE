@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: mu;
+    src: url(Super\ Dream.ttf);
+}
+.container{
+    height: 620px;
+    width: 100%;
+    color: white;
+    
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+}
+.container h1{
+    font-size: 60px;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+    font-family: mu;
+
+}
+.box{
+    height: 100px;
+    width: 500px;
+    
+    margin: 0px 0px 08px 0px;
+}
+.aa{ 
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+    
+}
+.one{
+    display: flex;
+    
+}
+
+.two{
+    display: flex;
+}
+.one i{
+    font-size: 80px;
+    margin: 0px 20px 0px 20px;
+}
+
+.one p{
+    margin: 10px 20px 20px 0px;
+    font-size: 20px;
+}
+
+.two i{
+    font-size: 80px;
+    margin: 0px 20px 0px 20px;
+}
+
+.two p{
+    margin: 10px 20px 20px 0px;
+    font-size: 20px;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.bro{
+    height: 50px;
+    width: 500px;
+
+    margin: 0px 0px 10px 0px;
+}
+.bb{ 
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0px 0px 30px 0px;
+    
+}
+.bro h2{
+    margin: 0px 0px 0px 110px;
+}
+.bro h6{
+    margin: 0px 0px 0px 110px;
+    font-weight: 100;
+}
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.box{
+    height: 100px;
+    width: 500px;
+    
+    margin: 0px 0px 10px 0px;
+}
+.aaone{ 
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0px 0px 08px 0px;
+    
+}
+.five{
+    display: flex;
+}
+.six{
+    display: flex;
+}
+.five i{
+    font-size: 80px;
+    margin: 0px 20px 0px 20px;
+}
+
+.five p{
+    margin: 10px 20px 20px 0px;
+    font-size: 20px;
+}
+
+.six i{
+    font-size: 80px;
+    margin: 0px 20px 0px 20px;
+}
+
+.six p{
+    margin: 10px 20px 20px 0px;
+    font-size: 20px;
+}
+/* ////////////////////////////////////////////////////////////////////////////// */
+
+.bro{
+    height: 50px;
+    width: 500px;
+    
+    margin: 0px 0px 10px 0px;
+}
+.bbone{ 
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0px 0px 30px 0px;
+
+    
+}
+.bro h2{
+    margin: 0px 0px 0px 110px;
+}
+.bro h6{
+    margin: 0px 0px 0px 110px;
+    font-weight: 100;
+}
+/* finish/ */
